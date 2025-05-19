@@ -657,4 +657,9 @@ Original Price, Current Price, Taxes, and Total Price
 - **Rating Score and Review Count showed weak correlation with pricing-related features.**
 
 
-```python
+## Connect with Me 🤝
+Find out more about my journey and connect with me on [LinkedIn](https://www.linkedin.com/in/ankithkumar08-data-analyst).
+
+---
+
+## Thank you for checking out my repository! Let’s code together! 💻
